@@ -26,7 +26,7 @@ export default function RootLayout({
           content={metadata.description as string}
         />
       </head>
-      <body className={`${inter.className} bg-gray-100 text-gray-100`}>
+      <body className={`${inter.className} bg-black-101 text-gray-100`}>
         {children}
       </body>
     </html>

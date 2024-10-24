@@ -109,7 +109,7 @@ const LogList: React.FC<LogListProps> = ({ logs, error }) => {
   }
 
   return (
-    <div className="space-y-2 bg-gray-900 text-gray-100 p-1">
+    <div className="space-y-2 bg-black-10 text-gray-100 p-1">
       <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-2">
         {Object.entries(severityCounts).map(([severity, count]) => (
           <SeverityCount
@@ -124,7 +124,7 @@ const LogList: React.FC<LogListProps> = ({ logs, error }) => {
       <HistogramChart data={histogramData} />
 
       {/* A row for info on the number of results and errors */}
-      <div className="flex justify-between items-center bg-gray-800 text-gray-100 p-3 rounded-lg">
+      <div className="flex justify-between items-center bg-black-10 text-gray-100 p-2 rounded-lg">
         <div>
           <p className="text-sm">
             Showing <span className="text-gray-300">{logs.length}</span> results
@@ -142,7 +142,7 @@ const LogList: React.FC<LogListProps> = ({ logs, error }) => {
       {/* Log table */}
       <div className="overflow-x-auto">
         <Table>
-          <TableHeader className="bg-gray-700 p-3">
+          <TableHeader className="bg-gray-800 p-3">
             <TableRow>
               <TableHead className="w-[50px]"></TableHead>
               <TableHead>Severity</TableHead>
@@ -159,7 +159,7 @@ const LogList: React.FC<LogListProps> = ({ logs, error }) => {
               .map((log: ILogRecord) => (
                 <React.Fragment key={log.timeUnixNano.toString()}>
                   <TableRow
-                    className="bg-gray-800 cursor-pointer hover:bg-gray-700"
+                    className="bg-black-100 cursor-pointer hover:bg-gray-700"
                     onClick={() => toggleRow(log.timeUnixNano.toString())}
                   >
                     <TableCell>
