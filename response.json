@@ -1,0 +1,1104 @@
+{
+    "resourceLogs": [
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "synergies"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "driver"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "9.4.6"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1705871582114000000",
+                            "observedTimeUnixNano": "1705871582114000000",
+                            "severityNumber": 6,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "calculate neural system"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706525467959000000",
+                            "observedTimeUnixNano": "1706525467959000000",
+                            "severityNumber": 7,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "hack multi-byte microchip"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "markets"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "program"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "4.2.0"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1706323817190000000",
+                            "observedTimeUnixNano": "1706323817190000000",
+                            "severityNumber": 12,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "transmit open-source interface"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "solutions"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "hard drive"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "3.2.9"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704179891413000000",
+                            "observedTimeUnixNano": "1704179891413000000",
+                            "severityNumber": 8,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "index open-source firewall"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704196950889000000",
+                            "observedTimeUnixNano": "1704196950889000000",
+                            "severityNumber": 22,
+                            "severityText": "FATAL",
+                            "body": {
+                                "stringValue": "synthesize haptic array"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704658538830000000",
+                            "observedTimeUnixNano": "1704658538830000000",
+                            "severityNumber": 13,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "back up virtual interface"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704927167226000000",
+                            "observedTimeUnixNano": "1704927167226000000",
+                            "severityNumber": 9,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "quantify redundant capacitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705398285350000000",
+                            "observedTimeUnixNano": "1705398285350000000",
+                            "severityNumber": 16,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "back up cross-platform bandwidth"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705609138293000000",
+                            "observedTimeUnixNano": "1705609138293000000",
+                            "severityNumber": 10,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "program redundant sensor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705620606540000000",
+                            "observedTimeUnixNano": "1705620606540000000",
+                            "severityNumber": 8,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "calculate cross-platform bus"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705661695767000000",
+                            "observedTimeUnixNano": "1705661695767000000",
+                            "severityNumber": 23,
+                            "severityText": "FATAL",
+                            "body": {
+                                "stringValue": "transmit redundant port"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705664234605000000",
+                            "observedTimeUnixNano": "1705664234605000000",
+                            "severityNumber": 11,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "transmit wireless bus"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706446479997000000",
+                            "observedTimeUnixNano": "1706446479997000000",
+                            "severityNumber": 12,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "hack haptic program"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "blockchains"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "panel"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "4.7.0"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704312255401000000",
+                            "observedTimeUnixNano": "1704312255401000000",
+                            "severityNumber": 16,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "copy mobile array"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705201719759000000",
+                            "observedTimeUnixNano": "1705201719759000000",
+                            "severityNumber": 15,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "calculate redundant transmitter"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705722892940000000",
+                            "observedTimeUnixNano": "1705722892940000000",
+                            "severityNumber": 1,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "calculate cross-platform bandwidth"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706177229893000000",
+                            "observedTimeUnixNano": "1706177229893000000",
+                            "severityNumber": 4,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "transmit mobile system"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706223155923000000",
+                            "observedTimeUnixNano": "1706223155923000000",
+                            "severityNumber": 16,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "program back-end pixel"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706612517467000000",
+                            "observedTimeUnixNano": "1706612517467000000",
+                            "severityNumber": 11,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "reboot solid state alarm"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "technologies"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "microchip"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "8.9.7"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704151990160000000",
+                            "observedTimeUnixNano": "1704151990160000000",
+                            "severityNumber": 4,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "input primary interface"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704254614480000000",
+                            "observedTimeUnixNano": "1704254614480000000",
+                            "severityNumber": 0,
+                            "severityText": "UNSPECIFIED",
+                            "body": {
+                                "stringValue": "synthesize wireless array"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704294448618000000",
+                            "observedTimeUnixNano": "1704294448618000000",
+                            "severityNumber": 1,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "reboot optical program"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704496325122000000",
+                            "observedTimeUnixNano": "1704496325122000000",
+                            "severityNumber": 0,
+                            "severityText": "UNSPECIFIED",
+                            "body": {
+                                "stringValue": "parse bluetooth hard drive"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704694593908000000",
+                            "observedTimeUnixNano": "1704694593908000000",
+                            "severityNumber": 10,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "override back-end sensor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705335978198000000",
+                            "observedTimeUnixNano": "1705335978198000000",
+                            "severityNumber": 1,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "quantify neural card"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "paradigms"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "panel"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "7.5.7"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1705566982360000000",
+                            "observedTimeUnixNano": "1705566982360000000",
+                            "severityNumber": 22,
+                            "severityText": "FATAL",
+                            "body": {
+                                "stringValue": "input mobile pixel"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706278274221000000",
+                            "observedTimeUnixNano": "1706278274221000000",
+                            "severityNumber": 16,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "parse multi-byte firewall"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "action-items"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "feed"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "6.2.7"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704449813079000000",
+                            "observedTimeUnixNano": "1704449813079000000",
+                            "severityNumber": 4,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "program solid state monitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "functionalities"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "system"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "1.5.0"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704443011230000000",
+                            "observedTimeUnixNano": "1704443011230000000",
+                            "severityNumber": 9,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "calculate redundant firewall"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704664057114000000",
+                            "observedTimeUnixNano": "1704664057114000000",
+                            "severityNumber": 20,
+                            "severityText": "ERROR",
+                            "body": {
+                                "stringValue": "navigate virtual monitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704766725935000000",
+                            "observedTimeUnixNano": "1704766725935000000",
+                            "severityNumber": 5,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "hack open-source firewall"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705054108968000000",
+                            "observedTimeUnixNano": "1705054108968000000",
+                            "severityNumber": 19,
+                            "severityText": "ERROR",
+                            "body": {
+                                "stringValue": "compress auxiliary program"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705751654483000000",
+                            "observedTimeUnixNano": "1705751654483000000",
+                            "severityNumber": 17,
+                            "severityText": "ERROR",
+                            "body": {
+                                "stringValue": "navigate multi-byte bandwidth"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706036017341000000",
+                            "observedTimeUnixNano": "1706036017341000000",
+                            "severityNumber": 20,
+                            "severityText": "ERROR",
+                            "body": {
+                                "stringValue": "generate multi-byte feed"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706092225738000000",
+                            "observedTimeUnixNano": "1706092225738000000",
+                            "severityNumber": 14,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "synthesize neural application"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706491777481000000",
+                            "observedTimeUnixNano": "1706491777481000000",
+                            "severityNumber": 12,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "calculate bluetooth port"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706517595925000000",
+                            "observedTimeUnixNano": "1706517595925000000",
+                            "severityNumber": 2,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "index bluetooth sensor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "models"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "bandwidth"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "6.3.4"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704109229646000000",
+                            "observedTimeUnixNano": "1704109229646000000",
+                            "severityNumber": 16,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "hack virtual driver"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704244244747000000",
+                            "observedTimeUnixNano": "1704244244747000000",
+                            "severityNumber": 4,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "input primary application"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704802225558000000",
+                            "observedTimeUnixNano": "1704802225558000000",
+                            "severityNumber": 8,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "parse wireless monitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704855715722000000",
+                            "observedTimeUnixNano": "1704855715722000000",
+                            "severityNumber": 15,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "synthesize multi-byte circuit"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705150371727000000",
+                            "observedTimeUnixNano": "1705150371727000000",
+                            "severityNumber": 22,
+                            "severityText": "FATAL",
+                            "body": {
+                                "stringValue": "copy auxiliary hard drive"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705615461288000000",
+                            "observedTimeUnixNano": "1705615461288000000",
+                            "severityNumber": 15,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "quantify digital circuit"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705800289620000000",
+                            "observedTimeUnixNano": "1705800289620000000",
+                            "severityNumber": 6,
+                            "severityText": "DEBUG",
+                            "body": {
+                                "stringValue": "override wireless monitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705914899243000000",
+                            "observedTimeUnixNano": "1705914899243000000",
+                            "severityNumber": 10,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "input wireless monitor"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1706373471851000000",
+                            "observedTimeUnixNano": "1706373471851000000",
+                            "severityNumber": 14,
+                            "severityText": "WARN",
+                            "body": {
+                                "stringValue": "parse online transmitter"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "resource": {
+                "droppedAttributesCount": 0,
+                "attributes": [
+                    {
+                        "key": "service.namespace",
+                        "value": {
+                            "stringValue": "systems"
+                        }
+                    },
+                    {
+                        "key": "service.name",
+                        "value": {
+                            "stringValue": "application"
+                        }
+                    },
+                    {
+                        "key": "service.version",
+                        "value": {
+                            "stringValue": "1.1.6"
+                        }
+                    }
+                ]
+            },
+            "scopeLogs": [
+                {
+                    "scope": {
+                        "droppedAttributesCount": 0,
+                        "attributes": [
+                            {
+                                "key": "telemetry.sdk.name",
+                                "value": {
+                                    "stringValue": "dash0-take-home-assignment"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.language",
+                                "value": {
+                                    "stringValue": "nodejs"
+                                }
+                            },
+                            {
+                                "key": "telemetry.sdk.version",
+                                "value": {
+                                    "stringValue": "1.0.0"
+                                }
+                            }
+                        ],
+                        "name": "mock"
+                    },
+                    "logRecords": [
+                        {
+                            "timeUnixNano": "1704588152541000000",
+                            "observedTimeUnixNano": "1704588152541000000",
+                            "severityNumber": 17,
+                            "severityText": "ERROR",
+                            "body": {
+                                "stringValue": "copy 1080p protocol"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704708366115000000",
+                            "observedTimeUnixNano": "1704708366115000000",
+                            "severityNumber": 3,
+                            "severityText": "TRACE",
+                            "body": {
+                                "stringValue": "index online interface"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1704952040543000000",
+                            "observedTimeUnixNano": "1704952040543000000",
+                            "severityNumber": 9,
+                            "severityText": "INFO",
+                            "body": {
+                                "stringValue": "synthesize digital panel"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        },
+                        {
+                            "timeUnixNano": "1705409469412000000",
+                            "observedTimeUnixNano": "1705409469412000000",
+                            "severityNumber": 0,
+                            "severityText": "UNSPECIFIED",
+                            "body": {
+                                "stringValue": "input open-source pixel"
+                            },
+                            "attributes": [],
+                            "droppedAttributesCount": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

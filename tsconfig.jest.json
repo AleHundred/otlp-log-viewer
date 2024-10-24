@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "commonjs", // Required for Jest, as it uses commonjs
+    "moduleResolution": "node", // Resolve node_modules in a Jest-compatible way
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react", // or 'preserve' if you're using JSX syntax in .tsx files
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "jest.setup.js",
+    "__tests__/**/*.ts",
+    "__tests__/**/*.tsx"
+  ],
+  "exclude": ["node_modules"]
+}
